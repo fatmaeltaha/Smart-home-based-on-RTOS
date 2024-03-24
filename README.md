@@ -28,7 +28,13 @@ The rooms' lights will be  turned on by frame structure:
 - if the user enters on the UART * P #, the user will change the password and make a new password.
 
 
-### Hardware design:
+### Hardware design and Tasks:
+
+<img src="https://github.com/fatmaeltaha/Smart-home-based-on-RTOS/assets/148214527/92a511ab-e099-40dd-aacd-19a16dcce663" weight ="380">
+
+### TasK Design
+
+
 
 
 
