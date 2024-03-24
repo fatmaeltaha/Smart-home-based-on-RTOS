@@ -35,6 +35,11 @@ The rooms' lights will be  turned on by frame structure:
 ### TasK Design
 
 
+<img src="https://github.com/fatmaeltaha/Smart-home-based-on-RTOS/assets/148214527/a8ab01d4-8264-4d46-bc12-9b922d814c61" weight="380">
+
+
+
+
 
 
 
